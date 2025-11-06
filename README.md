@@ -1,4 +1,3 @@
-👋 **Hi, I’m Muhammad Huzyafa Khokhar**  
 I’m a **technologist, researcher, and entrepreneur** working at the intersection of **AI, neuroscience, and robotics** — shaping the next era of **human–machine communication**.  
 
 🧠 **Founder & CEO of [Excelleve](https://mhkhokhar.com)** — pioneering **non-invasive brain-to-speech interfaces** to give voice to thought and redefine how humans and machines connect.  
