@@ -1,10 +1,12 @@
-# 👋 Hi, I’m Muhammad Huzyafa Khokhar
+👋 **Hi, I’m Muhammad Huzyafa Khokhar**  
+I’m a **technologist, researcher, and entrepreneur** working at the intersection of **AI, neuroscience, and robotics** — shaping the next era of **human–machine communication**.  
 
-I'm the founder of [Excelleve](https://excelleve.com/), where we’re pioneering non-invasive brain-computer interfaces to restore communication for individuals with neurological injuries.
+🧠 **Founder & CEO of [Excelleve](https://mhkhokhar.com)** — pioneering **non-invasive brain-to-speech interfaces** to give voice to thought and redefine how humans and machines connect.  
 
-My work lies at the intersection of **neuroscience and artificial intelligence** — building systems that translate thoughts into speech and push the boundaries of what's possible in assistive technology, medical AI, and robotics.
+💡 My work spans **neural decoding**, **large neural models**, **agentic AI**, and **human–computer interaction (HCI)** — uniting science and imagination to bring intelligence closer to human thought itself.  
 
-🚀 Explore my work and journey:  
-🌐 **[MHKhokhar.com](https://mhkhokhar.com)**
+🚀 **Explore my work:**  
+🌍 [mhkhokhar.com](https://mhkhokhar.com)  
 
-📬 Get in touch: muhammadhuzyafakhokhar@gmail.com
+📬 **Get in touch:**  
+📧 muhammadhuzyafakhokhar@gmail.com
