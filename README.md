@@ -1,4 +1,4 @@
-#👋 **Hi, I’m Muhammad Huzyafa Khokhar**  
+# 👋 **Hi, I’m Muhammad Huzyafa Khokhar**  
 ### *Building the bridge between mind and machine — where human thought meets AI.*  
 
 I’m a **technologist, researcher, and entrepreneur** working at the intersection of **AI, neuroscience, and robotics** — shaping the next era of **human–machine communication**.  
