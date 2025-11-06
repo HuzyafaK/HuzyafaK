@@ -5,7 +5,7 @@ I’m a **technologist, researcher, and entrepreneur** working at the intersecti
 
 🧠 **Founder & CEO of [Excelleve](https://mhkhokhar.com)** — pioneering **non-invasive brain-to-speech interfaces** to give voice to thought and redefine how humans and machines connect.  
 
-💡 My work spans **neural decoding**, **large neural models**, **agentic AI**, and **human–computer interaction (HCI)** — uniting science and imagination to bring intelligence closer to human thought itself.  
+💡 My work spans **Brain Computer Interface (BCI)**, **large neural models**, **agentic AI**, and **human–computer interaction (HCI)** — uniting science and imagination to bring intelligence closer to human thought itself.  
 
 🚀 **Explore my work:**  
 🌍 [mhkhokhar.com](https://mhkhokhar.com)  
