@@ -1,14 +1,12 @@
-# 👋 **Hi, I’m Muhammad Huzyafa Khokhar**  
-### *Building the bridge between mind and machine — where human thought meets AI.*  
+# 👋 Muhammad Huzyafa Khokhar
 
-I’m a **technologist, researcher, and entrepreneur** working at the intersection of **AI, neuroscience, and robotics** — shaping the next era of **human–machine communication**.  
+**Building the next interface between human and machine — thought.**
 
-🧠 **Founder & CEO of [Excelleve](https://mhkhokhar.com)** — pioneering **non-invasive brain-to-speech interfaces** to give voice to thought and redefine how humans and machines connect.  
+Founder & CEO of [Excelleve](https://excelleve.com) — non-invasive brain-to-speech decoding for people who cannot speak. 84% Top-5 sentence-level, purely imagined speech decoding from EEG. No surgery, no movement, no prior benchmark.
 
-💡 My work spans **neural decoding**, **large neural models**, **agentic AI**, and **human–computer interaction (HCI)** — uniting science and imagination to bring intelligence closer to human thought itself.  
+Founder & CEO of Glazion — intelligence infrastructure for regulated industries. Neuro-symbolic systems that reason transparently and cannot hallucinate by design.
 
-🚀 **Explore my work:**  
-🌍 [mhkhokhar.com](https://mhkhokhar.com)  
+Two directions, one obsession: building systems that work under the hardest constraints that exist — biological and regulatory — where most believe it cannot be done.
 
-📬 **Get in touch:**  
-📧 muhammadhuzyafakhokhar@gmail.com
+📧 huzyafa@excelleve.com
+🌐 [excelleve.com](https://excelleve.com)
